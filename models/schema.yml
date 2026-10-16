@@ -1,0 +1,32 @@
+version: 2
+models:
+  - name: model1
+    columns:
+      - name: id
+        data_tests: [not_null, unique]
+      - name: amount
+        data_tests: [not_null, unique]
+  - name: model2
+    columns:
+      - name: id
+        data_tests: [not_null, unique]
+      - name: amount
+        data_tests: [not_null, unique]
+  - name: model3
+    columns:
+      - name: id
+        data_tests: [not_null, unique]
+      - name: amount
+        data_tests: [not_null, unique]
+  - name: model4
+    columns:
+      - name: id
+        data_tests: [not_null, unique]
+      - name: amount
+        data_tests: [not_null, unique]
+  - name: model5
+    columns:
+      - name: id
+        data_tests: [not_null, unique]
+      - name: amount
+        data_tests: [not_null, unique]
