@@ -1,0 +1,9 @@
+name: github_scale
+version: '1.0'
+config-version: 2
+profile: github_scale
+model-paths: ['models']
+seed-paths: ['seeds']
+models:
+  github_scale:
+    +materialized: table
