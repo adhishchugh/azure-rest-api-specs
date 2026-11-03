@@ -1,0 +1,5 @@
+name: fp_root
+version: '1.0'
+config-version: 2
+profile: fp_root
+model-paths: ['models']
