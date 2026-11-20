@@ -1,0 +1,5 @@
+name: fp_foldercase
+version: '1.0'
+config-version: 2
+profile: fp_foldercase
+model-paths: ['models']
