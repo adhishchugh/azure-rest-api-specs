@@ -1,0 +1,5 @@
+name: fp_upper
+version: '1.0'
+config-version: 2
+profile: fp_upper
+model-paths: ['models']
